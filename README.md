@@ -4,9 +4,38 @@
 
 ### Web
 
-使用 Ant Design Pro 的脚手架
+使用 Ant Design Pro 的脚手架, 可以使用 `create-umi` 直接创建
 
-传送门: [Ant Design Pro](https://github.com/ant-design/ant-design-pro)
+```shell
+$ yarn create umi
+
+? Select the boilerplate type (Use arrow keys)
+❯ ant-design-pro  - Create project with a layout-only ant-design-pro boilerplate, use together with umi block.
+  app             - Create project with a simple boilerplate, support typescript.
+  plugin          - Create a umi plugin.
+
+? Do you want to use typescript? (y/N) y
+
+? What functionality do you want to enable? (Press <space> to select, <a> to toggle all, <i> to invert selection)
+ ● antd
+ ◯ dva
+ ● code splitting
+ ● dll
+
+create abc/package.json
+create abc/.gitignore
+create abc/.editorconfig
+...
+...
+
+📋  Copied to clipboard, just use Ctrl+V
+✨  File Generate Done
+```
+
+传送门:
+
+- [Create Umi](https://github.com/umijs/create-umi)
+- [Ant Design Pro](https://github.com/ant-design/ant-design-pro)
 
 ### 小程序
 
@@ -17,6 +46,11 @@
 ### 桌面端 Electron
 
 ### 浏览器插件
+
+传送门: [基于 Umi 的 Chrome 插件开发模板](https://github.com/arvinxx/umi-chrome-extension-template)
+
+个人笔记: [Extensions 浏览器插件 - 空谷的大前端](https://www.yuque.com/arvinxx-fe/extensions)
+
 
 ## 后端
 
