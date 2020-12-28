@@ -86,3 +86,8 @@ create abc/.editorconfig
 ### Airtable App
 
 传送门: [AirTable App Template](https://github.com/arvinxx/airtable-app-template)
+
+
+### Umi Plugin 开发模板
+
+传送门: [Umi Plugin Develop Template](https://github.com/arvinxx/umi-plugin-develop-template)
