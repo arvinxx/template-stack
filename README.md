@@ -1,8 +1,9 @@
-# 各端开发脚手架模板
+# 空谷的技术栈与脚手架模板
 
+我所掌握的技术栈和自用脚手架模板。
 
 ## 前端
-| 端类脚手架   | 技术栈                                                       | 脚手架地址                                                   |
+| 端技术       | 技术栈                                                       | 脚手架地址                                                   |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Web App      | React+ Umi + antd + stooks                                   | ➡️ [传送门](https://github.com/arvinxx/template-stack#web-app) |
 | 小程序       | React + Taro + stooks                                        | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E5%B0%8F%E7%A8%8B%E5%BA%8F) |
@@ -50,25 +51,43 @@ create abc/.editorconfig
 - [Create Umi](https://github.com/umijs/create-umi)
 - [Ant Design Pro](https://github.com/ant-design/ant-design-pro)
 
+
+
+使用案例：[my-rchain-wallet](https://github.com/arvinxx/my-rchain-wallet)、[多译](https://duoyiapp.com/)
+
 ### 小程序
 
 #### Taro
 
 ➡️ 传送门: [小程序 Taro 版模板](https://github.com/arvinxx/miniapp-taro-template)
 
+
+
+使用案例：课否
+
 ### 桌面端 Electron
+
+➡️ 传送门: [基于 Umi 的 Electron 开发模板](https://github.com/arvinxx/electron-umi-template)
+
+
+
+使用案例：[多译](https://duoyiapp.com/)
 
 ### 浏览器插件
 
 ➡️ 传送门: [基于 Umi 的 Chrome 插件开发模板](https://github.com/arvinxx/umi-chrome-extension-template)
 
+
+
 个人笔记: [Extensions 浏览器插件 - 空谷的大前端](https://www.yuque.com/arvinxx-fe/extensions)
 
 ### Sketch 插件
 
-技术栈: skpm umi typescript
-
 ➡️ 传送门: [Sketch Plugin Template](https://github.com/arvinxx/sketch-plugin-template)
+
+
+
+使用案例：[Pan](https://github.com/arvinxx/pan)、[Microwave](https://www.yuque.com/design-engineering/microwave)、[Sketch JSON](https://github.com/arvinxx/sketch-json)
 
 ### Figma 插件
 
@@ -79,15 +98,23 @@ TODO
 ➡️ 传送门: [AirTable App Template](https://github.com/arvinxx/airtable-app-template)
 
 
-### 
+
+使用案例：[airtable-app-mind-flow](https://github.com/arvinxx/airtable-app-mind-flow)、[airtable-app-user-journal-map](https://github.com/arvinxx/airtable-app-user-journal-map)
 
 ## 后端
 
+| 端技术 | 技术栈             | 脚手架地址                                                  |
+| ------ | ------------------ | ----------------------------------------------------------- |
+| NodeJS | EggJS + Typescript | ➡️ [传送门](https://github.com/arvinxx/template-stack#eggjs) |
+| Python | Flask              | ➡️ [传送门](https://github.com/arvinxx/template-stack#flask) |
+
 ### EggJS
+
+TODO
 
 ### Flask
 
-
+TODO
 
 ## 模块开发
 
@@ -95,13 +122,29 @@ TODO
 
 ➡️ 传送门: [模块开发模板](https://github.com/arvinxx/module-develop-template)
 
+
+
+使用案例：[html2sketch](https://github.com/ant-design/html2sketch)
+
+
+
 ### 多模块模板
+
+TODO
+
+
+
+使用案例：[uxdm](https://github.com/uxdm/uxdm)
+
+
 
 ### Umi Plugin 开发模板
 
 ➡️ 传送门: [Umi Plugin Develop Template](https://github.com/arvinxx/umi-plugin-develop-template)
 
 
+
+使用案例：[umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions)
 
 ## 自动化
 
