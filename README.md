@@ -53,13 +53,13 @@ create abc/.editorconfig
 
 
 
-使用案例：[my-rchain-wallet](https://github.com/arvinxx/my-rchain-wallet)、[多译](https://duoyiapp.com/)
+使用案例：[My Rchain Wallet](https://github.com/arvinxx/my-rchain-wallet)、[多译](https://duoyiapp.com/)
 
 ### 小程序
 
 #### Taro
 
-➡️ 传送门: [小程序 Taro 版模板](https://github.com/arvinxx/miniapp-taro-template)
+➡️ 传送门: [基于 Taro 的小程序模板](https://github.com/arvinxx/miniapp-taro-template)
 
 
 
