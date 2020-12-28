@@ -91,3 +91,8 @@ create abc/.editorconfig
 ### Umi Plugin 开发模板
 
 传送门: [Umi Plugin Develop Template](https://github.com/arvinxx/umi-plugin-develop-template)
+
+
+## License
+
+[MIT](./LICENSE) ® Arvin Xu
