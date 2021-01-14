@@ -2,6 +2,8 @@
 
 我所掌握的技术栈和自用脚手架模板。
 
+相关知识库 ➡️ [空谷的大前端](https://www.yuque.com/arvinxx-fe)
+
 ## 前端
 
 | 端技术       | 技术栈                                                                             | 脚手架地址                                                                                           |
@@ -66,11 +68,13 @@ create abc/.editorconfig
 
 使用案例：[多译](https://duoyiapp.com/)
 
-### 浏览器插件
+### Chrome 浏览器插件
 
 ➡️ 传送门: [基于 Umi 的 Chrome 插件开发模板](https://github.com/arvinxx/umi-chrome-extension-template)
 
-个人笔记: [Extensions 浏览器插件 - 空谷的大前端](https://www.yuque.com/arvinxx-fe/extensions)
+[Chrome 插件开发基础教程](https://arvinxx.github.io/umi-plugin-extensions/#/tutorial) | [个人笔记: Extensions 浏览器插件](https://www.yuque.com/arvinxx-fe/extensions)
+
+使用案例：[Power Yuque](https://github.com/arvinxx/power-yuque)
 
 ### Sketch 插件
 
