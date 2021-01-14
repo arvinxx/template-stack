@@ -64,19 +64,23 @@ create abc/.editorconfig
 
 ### 桌面端
 
-桌面端开发主要使用 [Electron](https://www.electronjs.org/) 框架,一个稳定安全的航天级 GUI 基础框架
-
-➡️ 传送门: [基于 Umi 的 Electron 开发模板](https://github.com/arvinxx/electron-umi-template)
+桌面端开发主要使用 [Electron](https://www.electronjs.org/) ，一个稳定安全的航天级 GUI 基础框架。
 
 [个人笔记: Electron](https://www.yuque.com/arvinxx-fe/electron)
+
+
+
+➡️ 传送门: [基于 Umi 的 Electron 开发模板](https://github.com/arvinxx/electron-umi-template)
 
 使用案例：[多译](https://duoyiapp.com/)
 
 ### 浏览器插件
 
-➡️ 传送门: [基于 Umi 的 Chrome 插件开发模板](https://github.com/arvinxx/umi-chrome-extension-template)
-
 [Chrome 插件开发基础教程](https://arvinxx.github.io/umi-plugin-extensions/#/tutorial) | [个人笔记: Extensions 浏览器插件](https://www.yuque.com/arvinxx-fe/extensions)
+
+
+
+➡️ 传送门: [基于 Umi 的 Chrome 插件开发模板](https://github.com/arvinxx/umi-chrome-extension-template)
 
 使用案例：[Power Yuque](https://github.com/arvinxx/power-yuque)
 
@@ -121,7 +125,7 @@ TODO
 
 ### 多模块模板
 
-➡️ 传送门: [monorepo 开发模板](https://github.com/arvinxx/monorepo-template)
+➡️ 传送门: [Monorepo 开发模板](https://github.com/arvinxx/monorepo-template)
 
 使用案例：[uxdm](https://github.com/uxdm/uxdm)
 
@@ -129,7 +133,7 @@ TODO
 
 ➡️ 传送门: [Umi Plugin Develop Template](https://github.com/arvinxx/umi-plugin-develop-template)
 
-使用案例：[umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions)
+使用案例：[umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions)、[umi-plugin-figma](https://github.com/arvinxx/umi-plugin-figma)
 
 ## 自动化
 
