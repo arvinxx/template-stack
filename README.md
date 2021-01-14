@@ -62,13 +62,17 @@ create abc/.editorconfig
 
 使用案例：课否
 
-### 桌面端 Electron
+### 桌面端
+
+桌面端开发主要使用 [Electron](https://www.electronjs.org/) 框架,一个稳定安全的航天级 GUI 基础框架
 
 ➡️ 传送门: [基于 Umi 的 Electron 开发模板](https://github.com/arvinxx/electron-umi-template)
 
+[个人笔记: Electron](https://www.yuque.com/arvinxx-fe/electron)
+
 使用案例：[多译](https://duoyiapp.com/)
 
-### Chrome 浏览器插件
+### 浏览器插件
 
 ➡️ 传送门: [基于 Umi 的 Chrome 插件开发模板](https://github.com/arvinxx/umi-chrome-extension-template)
 
