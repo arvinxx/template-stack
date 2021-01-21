@@ -68,8 +68,6 @@ create abc/.editorconfig
 
 [个人笔记: Electron](https://www.yuque.com/arvinxx-fe/electron)
 
-
-
 ➡️ 传送门: [基于 Umi 的 Electron 开发模板](https://github.com/arvinxx/electron-umi-template)
 
 使用案例：[多译](https://duoyiapp.com/)
@@ -77,8 +75,6 @@ create abc/.editorconfig
 ### 浏览器插件
 
 [Chrome 插件开发基础教程](https://arvinxx.github.io/umi-plugin-extensions/#/tutorial) | [个人笔记: Extensions 浏览器插件](https://www.yuque.com/arvinxx-fe/extensions)
-
-
 
 ➡️ 传送门: [基于 Umi 的 Chrome 插件开发模板](https://github.com/arvinxx/umi-chrome-extension-template)
 
@@ -116,6 +112,12 @@ TODO
 TODO
 
 ## 模块开发
+
+|                     | 技术栈                                      | 脚手架地址                                                                                             |
+| ------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 单模块开发          | Typescript + Dumi + Father + Jest + Typedoc | ➡️ [传送门](https://github.com/arvinxx/template-stack#单模块开发)                                      |
+| 多模块模板          | 单模块 + lerna                              | ➡️ [传送门](https://github.com/arvinxx/template-stack#多模块模板)                                      |
+| Umi Plugin 开发模板 | Electron +Web App                           | ➡️ [传送门](https://github.com/arvinxx/template-stack#umi-plugin-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF) |
 
 ### 单模块开发
 
