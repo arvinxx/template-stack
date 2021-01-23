@@ -8,14 +8,14 @@
 
 | 端技术       | 技术栈                                                                             | 脚手架地址                                                                                           |
 | ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Web App      | React+ Umi + antd + RxJS                                                         | ➡️ [传送门](https://github.com/arvinxx/template-stack#web-app)                                       |
-| 小程序       | React + Taro + RxJS                                                              | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E5%B0%8F%E7%A8%8B%E5%BA%8F)                   |
+| Web App      | React+ Umi + antd + RxJS                                                           | ➡️ [传送门](https://github.com/arvinxx/template-stack#web-app)                                       |
+| 小程序       | React + Taro + RxJS                                                                | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E5%B0%8F%E7%A8%8B%E5%BA%8F)                   |
 | 桌面端       | Electron +Web App                                                                  | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%A1%8C%E9%9D%A2%E7%AB%AF)                   |
 | 浏览器插件   | [umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions) + WebApp | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6) |
 | 移动端       | TODO                                                                               | TODO                                                                                                 |
 | Sketch 插件  | skpm + WebApp                                                                      | ➡️ [传送门](https://github.com/arvinxx/template-stack#sketch-%E6%8F%92%E4%BB%B6)                     |
 | Figma 插件   | [umi-plugin-figma](https://github.com/arvinxx/umi-plugin-figma) + WebApp           | TODO                                                                                                 |
-| AirTable App | [block-sdk](https://github.com/Airtable/blocks)（AirTable 出品） + antd + RxJS  | ➡️ [传送门](https://github.com/arvinxx/template-stack#airtable-app)                                  |
+| AirTable App | [block-sdk](https://github.com/Airtable/blocks)（AirTable 出品） + antd + RxJS     | ➡️ [传送门](https://github.com/arvinxx/template-stack#airtable-app)                                  |
 
 ### Web App
 
@@ -117,7 +117,7 @@ TODO
 | ------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 单模块开发          | Typescript + Dumi + Father + Jest + Typedoc | ➡️ [传送门](https://github.com/arvinxx/template-stack#单模块开发)                                      |
 | 多模块模板          | 单模块 + lerna                              | ➡️ [传送门](https://github.com/arvinxx/template-stack#多模块模板)                                      |
-| Umi Plugin 开发模板 | Electron +Web App                           | ➡️ [传送门](https://github.com/arvinxx/template-stack#umi-plugin-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF) |
+| Umi Plugin 开发模板 | 单模块开发                                  | ➡️ [传送门](https://github.com/arvinxx/template-stack#umi-plugin-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF) |
 
 ### 单模块开发
 
