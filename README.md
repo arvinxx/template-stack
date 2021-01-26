@@ -47,10 +47,12 @@ create abc/.editorconfig
 ✨  File Generate Done
 ```
 
-➡️ 传送门:
+相关链接:
 
 - [Create Umi](https://github.com/umijs/create-umi)
 - [Ant Design Pro](https://github.com/ant-design/ant-design-pro)
+
+➡️ 传送门: [Umi Web Template](https://github.com/arvinxx/umi-web-template)
 
 使用案例：[My Rchain Wallet](https://github.com/arvinxx/my-rchain-wallet)、[多译](https://duoyiapp.com/)
 
