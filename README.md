@@ -115,12 +115,12 @@ TODO
 
 ## 模块开发
 
-|                              | 技术栈                                      | 脚手架地址                                                                                             |
-| ---------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 单模块开发                   | Typescript + Dumi + Father + Jest + Typedoc | ➡️ [传送门](https://github.com/arvinxx/template-stack#单模块开发)                                      |
-| 多模块模板                   | 单模块 + lerna                              | ➡️ [传送门](https://github.com/arvinxx/template-stack#多模块模板)                                      |
-| Umi Plugin 开发模板          | 单模块开发                                  | ➡️ [传送门](https://github.com/arvinxx/template-stack#umi-plugin-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF) |
-| Gitmoji Commit Workflow 模板 |                                             | ➡️ [传送门](https://github.com/arvinxx/template-stack#Gitmoji-Commit-Workflow-模板)                    |
+|                              | 技术栈                                                             | 脚手架地址                                                                                             |
+| ---------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| 单模块开发                   | Typescript + Dumi + Father + Jest + Typedoc                        | ➡️ [传送门](https://github.com/arvinxx/template-stack#单模块开发)                                      |
+| 多模块模板                   | 单模块 + lerna                                                     | ➡️ [传送门](https://github.com/arvinxx/template-stack#多模块模板)                                      |
+| Umi Plugin 开发模板          | 单模块开发                                                         | ➡️ [传送门](https://github.com/arvinxx/template-stack#umi-plugin-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF) |
+| Gitmoji Commit Workflow 模板 | commitlint + contenonal-changelog + semantic-release + GCW-Presets | ➡️ [传送门](https://github.com/arvinxx/template-stack#Gitmoji-Commit-Workflow-模板)                    |
 
 ### 单模块开发
 
