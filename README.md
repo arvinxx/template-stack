@@ -8,7 +8,7 @@
 
 | 端技术       | 技术栈                                                                             | 脚手架地址                                                                                           |
 | ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Web App      | React+ Umi + antd + RxJS                                                           | ➡️ [传送门](https://github.com/arvinxx/template-stack#web-app)                                       |
+| Web App      | React + Umi + antd + Tailwindcss + RxJS                                              | ➡️ [传送门](https://github.com/arvinxx/template-stack#web-app)                                       |
 | 小程序       | React + Taro + RxJS                                                                | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E5%B0%8F%E7%A8%8B%E5%BA%8F)                   |
 | 桌面端       | Electron +Web App                                                                  | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%A1%8C%E9%9D%A2%E7%AB%AF)                   |
 | 浏览器插件   | [umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions) + WebApp | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6) |
