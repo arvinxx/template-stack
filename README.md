@@ -138,7 +138,7 @@ TODO
 
 ➡️ 传送门: [Umi Plugin Develop Template](https://github.com/arvinxx/umi-plugin-develop-template)
 
-使用案例：[umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions)、[umi-plugin-figma](https://github.com/arvinxx/umi-plugin-figma)
+使用案例：[umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions)、[umi-plugin-figma](https://github.com/arvinxx/umi-plugin-figma)(本人的大部分模板均已经集成了 GCW)
 
 ### Gitmoji Commit Workflow 模板
 
