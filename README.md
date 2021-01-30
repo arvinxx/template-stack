@@ -142,6 +142,8 @@ TODO
 
 ### Gitmoji Commit Workflow 模板
 
+符合 [Gitmoji Commit Workflow](https://www.yuque.com/arvinxx-fe/workflow/gitmoji-commit-workflow) 规范的开发模板
+
 ➡️ 传送门: [Gitmoji Commit Workflow Template](https://github.com/arvinxx/gitmoji-commit-workflow-template/)
 
 使用案例：[gitmoji-commit-workflow](https://github.com/arvinxx/gitmoji-commit-workflow)、[power-yuque](https://github.com/arvinxx/power-yuque)、[umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions) 等
