@@ -139,7 +139,7 @@ TODO
 
 ➡️ 传送门: [Monorepo 开发模板](https://github.com/arvinxx/monorepo-template)
 
-使用案例：[uxdm](https://github.com/uxdm/uxdm) 、 [gitmoji-commit-workflow][gitmoji-commit-workflow]
+使用案例：[uxdm](https://github.com/uxdm/uxdm)、[gitmoji-commit-workflow][gitmoji-commit-workflow]
 
 ### Umi Plugin 开发模板
 
