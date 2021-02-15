@@ -9,7 +9,7 @@
 | 端技术       | 技术栈                                                                             | 脚手架地址                                                                                           |
 | ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Web App      | React + Umi + antd + Tailwindcss + RxJS                                            | ➡️ [传送门](https://github.com/arvinxx/template-stack#web-app)                                       |
-| 浏览器插件   | [umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions) + WebApp | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6) |
+| 浏览器插件   | [umi-plugin-extensions][umi-plugin-extensions] + WebApp | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6) |
 | 桌面端       | Electron +Web App                                                                  | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%A1%8C%E9%9D%A2%E7%AB%AF)                   |
 | 小程序       | React + Taro + RxJS                                                                | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E5%B0%8F%E7%A8%8B%E5%BA%8F)                   |
 | 移动端       | TODO                                                                               | TODO                                                                                                 |
@@ -54,7 +54,7 @@ create abc/.editorconfig
 
 ➡️ 传送门: [Umi Web Template](https://github.com/arvinxx/umi-web-template)
 
-使用案例：[My Rchain Wallet](https://github.com/arvinxx/my-rchain-wallet)、[多译](https://duoyiapp.com/)
+使用案例：[My RChain Wallet](https://github.com/arvinxx/my-rchain-wallet)、[多译](https://duoyiapp.com/)
 
 ### 小程序
 
@@ -72,7 +72,7 @@ create abc/.editorconfig
 
 ➡️ 传送门: [基于 Umi 的 Electron 开发模板](https://github.com/arvinxx/electron-umi-template)
 
-使用案例：[多译](https://duoyiapp.com/)
+使用案例：[多译][duoyi]
 
 ### 浏览器插件
 
@@ -80,7 +80,7 @@ create abc/.editorconfig
 
 ➡️ 传送门: [基于 Umi 的 Chrome 插件开发模板](https://github.com/arvinxx/umi-chrome-extension-template)
 
-使用案例：[Power Yuque](https://github.com/arvinxx/power-yuque)
+使用案例：[Power Yuque][power-yuque]
 
 ### Sketch 插件
 
@@ -117,9 +117,9 @@ TODO
 
 |                              | 技术栈                                                             | 脚手架地址                                                                                             |
 | ---------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| 单模块开发                   | Typescript + Dumi + Father + Jest + Typedoc                        | ➡️ [传送门](https://github.com/arvinxx/template-stack#单模块开发)                                      |
+| 单模块模板                   | Typescript + Dumi + Father + Jest + Typedoc                        | ➡️ [传送门](https://github.com/arvinxx/template-stack#单模块开发)                                      |
 | 多模块模板                   | 单模块 + lerna                                                     | ➡️ [传送门](https://github.com/arvinxx/template-stack#多模块模板)                                      |
-| Umi Plugin 开发模板          | 单模块开发                                                         | ➡️ [传送门](https://github.com/arvinxx/template-stack#umi-plugin-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF) |
+| Umi Plugin 开发模板          | 单模块                                                             | ➡️ [传送门](https://github.com/arvinxx/template-stack#umi-plugin-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF) |
 | Gitmoji Commit Workflow 模板 | commitlint + contenonal-changelog + semantic-release + GCW-Presets | ➡️ [传送门](https://github.com/arvinxx/template-stack#Gitmoji-Commit-Workflow-模板)                    |
 
 ### 单模块开发
@@ -132,13 +132,13 @@ TODO
 
 ➡️ 传送门: [Monorepo 开发模板](https://github.com/arvinxx/monorepo-template)
 
-使用案例：[uxdm](https://github.com/uxdm/uxdm)
+使用案例：[uxdm](https://github.com/uxdm/uxdm) 、 [gitmoji-commit-workflow][gitmoji-commit-workflow]
 
 ### Umi Plugin 开发模板
 
 ➡️ 传送门: [Umi Plugin Develop Template](https://github.com/arvinxx/umi-plugin-develop-template)
 
-使用案例：[umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions)、[umi-plugin-figma](https://github.com/arvinxx/umi-plugin-figma)(本人的大部分模板均已经集成了 GCW)
+使用案例：[umi-plugin-extensions][umi-plugin-extensions]、[umi-plugin-figma](https://github.com/arvinxx/umi-plugin-figma)
 
 ### Gitmoji Commit Workflow 模板
 
@@ -146,7 +146,7 @@ TODO
 
 ➡️ 传送门: [Gitmoji Commit Workflow Template](https://github.com/arvinxx/gitmoji-commit-workflow-template/)
 
-使用案例：[gitmoji-commit-workflow](https://github.com/arvinxx/gitmoji-commit-workflow)、[power-yuque](https://github.com/arvinxx/power-yuque)、[umi-plugin-extensions](https://github.com/arvinxx/umi-plugin-extensions) 等
+使用案例： 本人的大部分模板均已经集成了 Gitmoji Commit Workflow 例如: [gitmoji-commit-workflow][gitmoji-commit-workflow]、[power-yuque][power-yuque]、[umi-plugin-extensions][umi-plugin-extensions] 等
 
 ## 自动化
 
@@ -163,3 +163,8 @@ TODO
 ## License
 
 [MIT](./LICENSE) ® Arvin Xu
+
+[duoyi]: https://duoyiapp.com/
+[power-yuque]: https://github.com/arvinxx/power-yuque
+[gitmoji-commit-workflow]: https://github.com/arvinxx/gitmoji-commit-workflow
+[umi-plugin-extensions]: https://github.com/arvinxx/umi-plugin-extensions
