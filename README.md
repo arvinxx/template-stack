@@ -107,10 +107,17 @@ TODO
 
 ## 后端
 
-| 端技术 | 技术栈             | 脚手架地址                                                   |
-| ------ | ------------------ | ------------------------------------------------------------ |
-| NodeJS | EggJS + Typescript | ➡️ [传送门](https://github.com/arvinxx/template-stack#eggjs) |
-| Python | Flask              | ➡️ [传送门](https://github.com/arvinxx/template-stack#flask) |
+| 端技术     | 技术栈              | 脚手架地址                                                   |
+| ---------- | ------------------- | ------------------------------------------------------------ |
+| Serverless | Vercel + Typescript | ➡️ [传送门](https://github.com/arvinxx/template-stack#serverless) |
+| NodeJS     | EggJS + Typescript  | ➡️ [传送门](https://github.com/arvinxx/template-stack#eggjs) |
+| Python     | Flask               | ➡️ [传送门](https://github.com/arvinxx/template-stack#flask) |
+
+### Serverless
+
+➡️ 传送门: [Vercel Serverless Api Template](https://github.com/arvinxx/vercel-serverless-api-template)
+
+使用案例：[空谷的 api](https://github.com/arvinxx/api)
 
 ### EggJS
 
