@@ -13,16 +13,16 @@
 
 ## 前端
 
-| 端技术       | 技术栈                                                                         | 脚手架地址                                                                                           |
-| ------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| Web App      | React + Umi + antd + Tailwindcss + RxJS                                        | ➡️ [传送门](https://github.com/arvinxx/template-stack#web-app)                                       |
-| 浏览器插件   | [umi-plugin-extensions][umi-plugin-extensions] + WebApp                        | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6) |
-| 桌面端       | Electron +Web App                                                              | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%A1%8C%E9%9D%A2%E7%AB%AF)                   |
-| 小程序       | React + Taro + RxJS                                                            | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E5%B0%8F%E7%A8%8B%E5%BA%8F)                   |
-| 移动端       | TODO                                                                           | TODO                                                                                                 |
-| Sketch 插件  | skpm + WebApp                                                                  | ➡️ [传送门](https://github.com/arvinxx/template-stack#sketch-%E6%8F%92%E4%BB%B6)                     |
-| Figma 插件   | [umi-plugin-figma](https://github.com/arvinxx/umi-plugin-figma) + WebApp       | TODO                                                                                                 |
-| AirTable App | [block-sdk](https://github.com/Airtable/blocks)（AirTable 出品） + antd + RxJS | ➡️ [传送门](https://github.com/arvinxx/template-stack#airtable-app)                                  |
+| 端技术       | 技术栈                                                                           | 脚手架地址                                                                                           |
+| ------------ |-------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------- |
+| Web App      | React + Umi + antd + antd-style + zustand                                     | ➡️ [传送门](https://github.com/arvinxx/template-stack#web-app)                                       |
+| 浏览器插件   | [umi-plugin-extensions][umi-plugin-extensions] + WebApp                       | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6) |
+| 桌面端       | Electron + Web App                                                            | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E6%A1%8C%E9%9D%A2%E7%AB%AF)                   |
+| 小程序       | React + Taro + zustand                                                        | ➡️ [传送门](https://github.com/arvinxx/template-stack#%E5%B0%8F%E7%A8%8B%E5%BA%8F)                   |
+| 移动端       | TODO                                                                          | TODO                                                                                                 |
+| Sketch 插件  | skpm + WebApp                                                                 | ➡️ [传送门](https://github.com/arvinxx/template-stack#sketch-%E6%8F%92%E4%BB%B6)                     |
+| Figma 插件   | [umi-plugin-figma](https://github.com/arvinxx/umi-plugin-figma) + WebApp      | TODO                                                                                                 |
+| AirTable App | [block-sdk](https://github.com/Airtable/blocks)（AirTable 出品） + antd + zustand | ➡️ [传送门](https://github.com/arvinxx/template-stack#airtable-app)                                  |
 
 ### Web App
 
